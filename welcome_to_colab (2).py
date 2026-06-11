@@ -211,7 +211,7 @@ These are a few of the notebooks related to Machine Learning, including Google's
 - [Image Classification with KerasHub](https://keras.io/keras_hub/guides/classification_with_keras_hub/)
 """
 
-pip install streamlit
+"" pip install streamlit
 
 """## Running Streamlit Apps in Colab
 
