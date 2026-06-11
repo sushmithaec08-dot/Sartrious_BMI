@@ -222,7 +222,6 @@ Since your Streamlit code is currently in a notebook cell, we'll first save it t
 Keep in mind that when you run a Streamlit app this way, it will typically provide a public URL that you can open in your browser to interact with the app.
 """
 
-!streamlit run app.py & npx localtunnel --port 8501
 
 import streamlit as st
 
